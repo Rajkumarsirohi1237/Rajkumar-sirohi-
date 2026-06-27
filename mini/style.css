@@ -1,0 +1,33 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    background-color: whitesmoke;
+    padding: 20px;
+    text-align: center;
+}
+.btn{
+    display:flex;
+    justify-content:space-between;
+    
+}
+.bt{
+    background-color:black;
+    color:white;
+    border:none;
+    width:100px
+  
+}
+ /* .card{
+    display:flex;
+    justify-content:center;
+}  */
+#outer{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px;
+}
