@@ -2,10 +2,13 @@
     margin: 0;
     padding: 0;
 }
+body{
+    background: #c58484;
+}
 header{
     display: flex;
     justify-content: space-between;
-    background-color: whitesmoke;
+    background-color: rgb(129, 123, 123);
     padding: 20px;
     text-align: center;
 }
